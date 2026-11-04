@@ -49,6 +49,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Ridge Regression | Fit ridge regression with L2 regularization using the closed-form solution required by the problem. | https://www.tensortonic.com/problems/ridge-regression |
 | RMSProp Optimizer (Single Update Step) | Implement one RMSProp update in NumPy using an exponential squared-gradient average and adaptive scaling. | https://www.tensortonic.com/problems/rmsprop-optimizer |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
+| Swish | Implement fused Swish or SiLU activation in CUDA with one thread per element and device exponential math. | https://www.tensortonic.com/problems/swish |
 | Implement Swish Activation | Apply the Swish activation element-wise in NumPy by multiplying each input by its sigmoid, computed without overflow. | https://www.tensortonic.com/problems/swish-activation |
 | Pick a Threshold Under a Precision Constraint | Pick the decision threshold with the highest recall whose precision meets a required floor, or report that none does. | https://www.tensortonic.com/problems/threshold-under-precision-constraint |
 | Compute 3D Vector Norm | Compute the Euclidean norm of a 3D vector from the square root of summed squared coordinates. | https://www.tensortonic.com/problems/vector-norm-3d |
